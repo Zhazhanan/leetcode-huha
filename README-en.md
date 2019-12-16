@@ -9,5 +9,5 @@
 [js - azl397985856](https://github.com/azl397985856/leetcode)
 
 ### Leetcode
-[Leetcode website]{https://leetcode.com/}
+[Leetcode website](https://leetcode.com/)
 
